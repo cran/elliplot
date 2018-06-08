@@ -1,9 +1,10 @@
-96e3815d0ad8bfb03c5526d7b5d1fc34 *DESCRIPTION
+0443e4870ff1289380972cf4603eb70e *DESCRIPTION
 8e7d5a441a671ef5ed4d10ec3ea2e1c9 *LICENSE
-d3702f6166d4b89298706582573828eb *NAMESPACE
+604c842ab6bbc99356fba7071271b3d0 *NAMESPACE
 c6833bf2ae414fac6d7b01c966a6b286 *R/ellipseplot.R
 90ebf75df17fefe3dd45521c049d27f0 *R/midpoints.R
-0ba74c397908910fad2823223763d315 *man/elliplot-package.Rd
+8f4927871a1cbe22d5d65d3d46499cf9 *build/partial.rdb
+880579d726edb4bda2d958982fea639c *man/elliplot-package.Rd
 1a3f82310d1296249d62b1af33b2dcaf *man/ellipseplot.Rd
 7b603aff7daea6e964d72c14fa71debb *man/midpoint.Rd
 aa9a4bc20158af20fefed6a72f3b7d0c *man/midpoints.Rd
